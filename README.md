@@ -144,5 +144,4 @@ After completing these steps:
 3. docker-compose up -d 
 
 ---
-
-This README should be ready for GitHub and is styled for clear readability. Let me know if you need any adjustments!
+  
